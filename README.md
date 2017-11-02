@@ -1,6 +1,6 @@
 # Poi-test
 
-A simple [Vue][https://github.com/vuejs/vue] app using [Poi][https://github.com/egoist/poi] boilerplate
+A simple [Vue](https://github.com/vuejs/vue) app using [Poi](https://github.com/egoist/poi) boilerplate
 ### Run
 ```yarn```
 
